@@ -3,6 +3,11 @@
 
 ### MY STATS ###
 ![Xenoms GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xenoms&show_icons=true&hide_border=true)
+
+Operating System:<br>
+<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-3DDC84?style=for-the-badge&logo=manjaro&logoColor=white" />
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
 - 🔭 I’m currently working on 🍃
 - 🌱 I'm currently studying everything ...
 - 👯 I’m looking to collaborate with other content creators
@@ -11,9 +16,6 @@
 - 🎲 2020 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / bassist
 
-Operating System:<br>
-<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-3DDC84?style=for-the-badge&logo=manjaro&logoColor=white" />
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 Have learned:<br>
 <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
