@@ -1,3 +1,4 @@
+
 # 🔔 Hey there! I'm Xenoms 👋
 
 ### MY STATS ###
@@ -6,6 +7,6 @@
 - 🌱 I'm currently studying everything ...
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with ...
-- [<img align="left" alt=" | telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][https://t.me/Broken_Dick] 📨
+- 💬 my telegram [<img align="left" alt=" | telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][https://t.me/Broken_Dick] 🗳
 - 🎲 2020 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / bassist
