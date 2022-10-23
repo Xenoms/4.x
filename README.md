@@ -7,11 +7,10 @@
 
 - 🔭 I’m currently working on 🍃
 - 🌱 I'm currently studying everything ...
-- 👯 I’m looking to collaborate with other content creators
+- ♨ I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with ...
-- my telegram [<img align="left" alt=" | telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Here](https://t.me/Broken_Dick) 🗳
+- my telegram [<img align="left" alt=" | telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />]-[Here](https://t.me/Destroyed_In_Debian) 🗳
 - 🎲 2020 Goal: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / bassist
 
 Operating System:<br>
 <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-3DDC84?style=for-the-badge&logo=manjaro&logoColor=white" />
