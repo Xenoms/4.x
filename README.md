@@ -9,8 +9,9 @@
 - 🌱 I'm currently studying everything ...
 - ♨ I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with ...
-- my telegram <img align="left" alt=" | telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />[Here](https://t.me/Destroyed_In_Debian) 🗳
 - 🎲 2020 Goal: Contribute more to Open Source projects
+- [![Telegram](https://img.shields.io/badge/TELEGRAM-%3E-blue?style=for-the-badge&logo=telegram)](https://t.me/Destroyed_In_Debian)
+
 
 Operating System:<br>
 <img alt="Kali Linux" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=" />
